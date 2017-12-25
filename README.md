@@ -6,7 +6,6 @@ link to download mongodb :
 
 run mongodb on system  :
 
-    C:\database_mongo\mongodb-win32-i386-3.2.18-4-g752daa3\bin>mongod --storageEngin
-    e=mmapv1 --dbpath "C:\database_mongo\mongodb-win32-i386-3.2.18-4-g752daa3\bin
+    C:\database_mongo\mongodb-win32-i386-3.2.18-4-g752daa3\bin>mongod --storageEngine=mmapv1 --dbpath "C:\database_mongo\mongodb-win32-i386-3.2.18-4-g752daa3\bin
 
 for more details text me. 
